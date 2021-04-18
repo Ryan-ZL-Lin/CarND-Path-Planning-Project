@@ -1,3 +1,7 @@
+[//]: # (Image References)
+
+[image1]: Driving Records.png "result"
+
 # Model Documentation
 This file shows the detail of path generation.
 
@@ -23,3 +27,5 @@ Starts from main.cpp line 157
 
 
 ## Simulator driving result
+
+![Result][image1]
