@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: Driving Records.png "result"
+[image1]: Driving_Records.png "result"
 
 # Model Documentation
 This file shows the detail of path generation.
