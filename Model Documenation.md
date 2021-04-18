@@ -27,5 +27,8 @@ Starts from main.cpp line 157
 
 
 ## Simulator driving result
+1. 16.90 miles without any incident
+2. Speed and jerkiness limit are not reached in the whole driving period. 
+3. No collision. 
 
 ![Result][image1]
